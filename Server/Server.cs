@@ -33,7 +33,7 @@ class Server
     {
         NetworkStream stream = client.GetStream();
         byte[] buffer = new byte[1024];
-        string clientName = "Cliente" + client.GetHashCode(); // Nombre temporal para identificar al cliente
+        string clientName = "Cliente"; // Nombre temporal para identificar al cliente
 
         try
         {
