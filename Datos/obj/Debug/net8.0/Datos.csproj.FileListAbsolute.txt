@@ -1,0 +1,14 @@
+C:\Users\aless\OneDrive\Escritorio\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\OneDrive\Escritorio\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\aless\OneDrive\Escritorio\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\aless\OneDrive\Escritorio\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Escritorio\Datos\bin\Debug\net8.0\Datos.exe
+C:\Users\aless\OneDrive\Escritorio\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\aless\OneDrive\Escritorio\Datos\bin\Debug\net8.0\Datos.runtimeconfig.json
+C:\Users\aless\OneDrive\Escritorio\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\aless\OneDrive\Escritorio\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\aless\OneDrive\Escritorio\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\aless\OneDrive\Escritorio\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\aless\OneDrive\Escritorio\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\aless\OneDrive\Escritorio\Datos\obj\Debug\net8.0\Datos.genruntimeconfig.cache
+C:\Users\aless\OneDrive\Escritorio\Datos\obj\Debug\net8.0\ref\Datos.dll

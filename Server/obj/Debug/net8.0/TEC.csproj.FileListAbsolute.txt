@@ -1,0 +1,14 @@
+C:\Users\aless\OneDrive\Documentos\TEC\bin\Debug\net8.0\TEC.exe
+C:\Users\aless\OneDrive\Documentos\TEC\bin\Debug\net8.0\TEC.deps.json
+C:\Users\aless\OneDrive\Documentos\TEC\bin\Debug\net8.0\TEC.runtimeconfig.json
+C:\Users\aless\OneDrive\Documentos\TEC\bin\Debug\net8.0\TEC.dll
+C:\Users\aless\OneDrive\Documentos\TEC\bin\Debug\net8.0\TEC.pdb
+C:\Users\aless\OneDrive\Documentos\TEC\obj\Debug\net8.0\TEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\OneDrive\Documentos\TEC\obj\Debug\net8.0\TEC.AssemblyInfoInputs.cache
+C:\Users\aless\OneDrive\Documentos\TEC\obj\Debug\net8.0\TEC.AssemblyInfo.cs
+C:\Users\aless\OneDrive\Documentos\TEC\obj\Debug\net8.0\TEC.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Documentos\TEC\obj\Debug\net8.0\TEC.dll
+C:\Users\aless\OneDrive\Documentos\TEC\obj\Debug\net8.0\refint\TEC.dll
+C:\Users\aless\OneDrive\Documentos\TEC\obj\Debug\net8.0\TEC.pdb
+C:\Users\aless\OneDrive\Documentos\TEC\obj\Debug\net8.0\TEC.genruntimeconfig.cache
+C:\Users\aless\OneDrive\Documentos\TEC\obj\Debug\net8.0\ref\TEC.dll
