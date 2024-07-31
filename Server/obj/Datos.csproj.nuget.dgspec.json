@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aless\\OneDrive\\Documentos\\TEC\\Datos.csproj": {}
+    "C:\\Users\\aless\\OneDrive\\Escritorio\\Datos\\Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aless\\OneDrive\\Documentos\\TEC\\Datos.csproj": {
+    "C:\\Users\\aless\\OneDrive\\Escritorio\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aless\\OneDrive\\Documentos\\TEC\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\aless\\OneDrive\\Escritorio\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "C:\\Users\\aless\\OneDrive\\Documentos\\TEC\\Datos.csproj",
+        "projectPath": "C:\\Users\\aless\\OneDrive\\Escritorio\\Datos\\Datos.csproj",
         "packagesPath": "C:\\Users\\aless\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aless\\OneDrive\\Documentos\\TEC\\obj\\",
+        "outputPath": "C:\\Users\\aless\\OneDrive\\Escritorio\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aless\\AppData\\Roaming\\NuGet\\NuGet.Config"

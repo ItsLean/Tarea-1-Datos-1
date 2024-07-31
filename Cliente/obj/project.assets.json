@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aless\\OneDrive\\Escritorio\\Datos\\Datos.csproj",
-      "projectName": "Datos",
-      "projectPath": "C:\\Users\\aless\\OneDrive\\Escritorio\\Datos\\Datos.csproj",
+      "projectUniqueName": "C:\\Users\\aless\\OneDrive\\Documentos\\TEC\\TEC.csproj",
+      "projectName": "TEC",
+      "projectPath": "C:\\Users\\aless\\OneDrive\\Documentos\\TEC\\TEC.csproj",
       "packagesPath": "C:\\Users\\aless\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aless\\OneDrive\\Escritorio\\Datos\\obj\\",
+      "outputPath": "C:\\Users\\aless\\OneDrive\\Documentos\\TEC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aless\\AppData\\Roaming\\NuGet\\NuGet.Config"
